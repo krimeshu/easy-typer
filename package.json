@@ -22,6 +22,7 @@
     "applescript": "^1.0.0",
     "crypto-js": "^4.1.1",
     "dayjs": "^1.11.7",
+    "sass": "^1.88.0",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
@@ -57,7 +58,6 @@
     "github-markdown-css": "^4.0.0",
     "heatmap.js": "^2.0.5",
     "lint-staged": "^9.5.0",
-    "node-sass": "^8.0.0",
     "prerender-spa-plugin": "^3.2.1",
     "raw-loader": "^4.0.2",
     "register-service-worker": "^1.7.1",

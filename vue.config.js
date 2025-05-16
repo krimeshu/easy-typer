@@ -1,3 +1,4 @@
+require('./crypto-shim.js')
 const sitemapPlugin = require('sitemap-webpack-plugin').default
 
 const routes = [
