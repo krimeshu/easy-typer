@@ -2,6 +2,7 @@ import Vue from 'vue'
 import { ActionTree, GetterTree, Module, MutationTree } from 'vuex'
 import { BookModel, QuickTypingState, ReadingState } from './types'
 import db from './util/Database'
+import eapi from '@/api/easyTyper'
 
 const state = new ReadingState()
 
